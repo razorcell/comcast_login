@@ -1,0 +1,7 @@
+venv
+.env
+profiles
+profiles_success
+output
+error_logs
+__pycache__
