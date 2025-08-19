@@ -6,7 +6,7 @@ This project provides a service for managing Comcast-related operations. It incl
 
 The website being interacted with in this project is protected by Akamai's advanced anti-bot firewall. This adds an additional layer of security, making it challenging to perform automated tasks without proper handling. Below is a proof image showcasing the Akamai anti-bot firewall in action:
 
-![Akamai Anti-Bot Firewall Proof](https://i.ibb.co/7dqDQzW/Screenshot-2025-08-19-at-19-26-37.png)
+![Akamai Anti-Bot Firewall Proof](screenshot.png)
 
 
 
