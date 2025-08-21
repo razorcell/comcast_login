@@ -2,7 +2,7 @@ import os
 from botasaurus.browser import browser, Driver, Wait
 
 def check_env_variables():
-    required_envs = ["RESIDENTIAL_PROXY", "USERNAME", "PASSWORD"]
+    required_envs = ["RESIDENTIAL_PROXY", "USERNAME", "PASSWORD", "UNITED_MASTER_USERNAME", "UNITED_MASTER_PASSWORD"]
     for env in required_envs:
         value = os.getenv(env)
         if not value:
